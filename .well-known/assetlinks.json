@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "medicosatoz",
+      "package_name": "com.ssp.medicosatoz",
+      "sha256_cert_fingerprints": [
+        "C7:37:43:95:FB:C1:39:1B:AB:F5:71:8D:45:8C:8E:0A:32:43:A9:DF:37:E5:79:C9:AD:F4:6A:30:3E:9A:B7:10"
+      ]
+    }
+  }
+]
