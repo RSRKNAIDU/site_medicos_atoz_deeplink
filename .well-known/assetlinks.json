@@ -4,10 +4,11 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "medicosatoz",
+      "namespace": "android_app",
       "package_name": "com.ssp.medicosatoz",
       "sha256_cert_fingerprints": [
-        "C7:37:43:95:FB:C1:39:1B:AB:F5:71:8D:45:8C:8E:0A:32:43:A9:DF:37:E5:79:C9:AD:F4:6A:30:3E:9A:B7:10"
+        "C7:37:43:95:FB:C1:39:1B:AB:F5:71:8D:45:8C:8E:0A:32:43:A9:DF:37:E5:79:C9:AD:F4:6A:30:3E:9A:B7:10",
+        "B6:E4:76:DB:F9:9C:59:29:84:FC:62:9B:8A:10:4D:82:DC:F5:02:38:06:5B:B3:36:69:1A:CB:DF:DD:89:D6:E0"
       ]
     }
   }
